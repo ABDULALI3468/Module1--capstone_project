@@ -6,8 +6,6 @@
 
 > This project is for completing my Capstone Project requirements for first module at Microverse. It consists of two webpages for a touring company called Alpha Tours, which offers international tour packages.
 
-![screenshot]()
-
 It consists of two webpages Home and About with both being responsive to desktop and mobile layouts.
 
 ## Built With
@@ -25,7 +23,7 @@ It consists of two webpages Home and About with both being responsive to desktop
 #### Step 1:
 - Clone this repo locally using git and the following git command
 
-  git clone 
+  git clone https://github.com/ABDULALI3468/Module1--capstone_project.git
 
 #### Step 2:
 - Run index.html file in your browser
