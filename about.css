@@ -1,6 +1,4 @@
-.front-page__h2,
-.front-page__message,
-.front-page__h1 {
+.front-page__message {
   text-align: center;
 }
 
@@ -231,7 +229,6 @@ body {
   align-items: center;
   justify-content: center;
   height: 250px;
-  background-color: rgba(242, 242, 242, 0.2) !important;
 }
 
 .footer-logo {
@@ -246,7 +243,6 @@ body {
 
 .footer p {
   font-family: var(--fontFamily-lato);
-  color: var(--Black) !important;
   margin-left: 20px;
 }
 

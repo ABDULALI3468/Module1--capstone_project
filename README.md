@@ -14,19 +14,20 @@ It consists of two webpages Home and About with both being responsive to desktop
 
 ## Live Demo
 
-- [Live Demo Link]()
+- [Live Demo Link](https://abdulali3468.github.io/Module1--capstone_project)
 
 ## Getting Started
 
 ### To launch the project locally:
 
 #### Step 1:
+
 - Clone this repo locally using git and the following git command
 
   git clone https://github.com/ABDULALI3468/Module1--capstone_project.git
 
-
 #### Step 2:
+
 - Run index.html file in your browser
 
 ## Authors
@@ -50,8 +51,6 @@ Give a ⭐️ if you like this project!
 
 -Design by [Cindy Shin](https://www.behance.net/adagio07) (original design)
 
-
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
