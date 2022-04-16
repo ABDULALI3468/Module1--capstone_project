@@ -168,7 +168,6 @@ p {
 
 .front-page__h2 {
   color: var(--Orange);
-  /* font-family: var(--fontFamily-lato); */
   font-family: var(--fontFamily-coco);
   font-weight: normal;
   text-align: left;
