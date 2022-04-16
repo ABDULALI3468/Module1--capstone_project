@@ -91,19 +91,18 @@ function createStaffMember(allowStaff) {
   });
 }
 
-
 const staffInside = document.querySelector('.staff-inside');
 let isDisplayingCards = false;
 staffInside.addEventListener('click', () => {
   if (isDisplayingCards) {
-    StaffSection.innerHTML = ``;
+    StaffSection.innerHTML = '';
     createStaffMember(1);
     staffInside.querySelector('#more-btn').innerHTML = 'SEE MORE';
     staffInside.querySelector('#more-btn-ico').classList.add('fa-chevron-down');
     staffInside.querySelector('#more-btn-ico').classList.remove('fa-chevron-up');
     isDisplayingCards = !isDisplayingCards;
   } else {
-    StaffSection.innerHTML = ``;
+    StaffSection.innerHTML = '';
     createStaffMember(staff.length);
     staffInside.querySelector('#more-btn').innerHTML = 'SEE LESS';
     staffInside.querySelector('#more-btn-ico').classList.remove('fa-chevron-down');
@@ -113,14 +112,12 @@ staffInside.addEventListener('click', () => {
 });
 
 function loadCards() {
-  StaffSection.innerHTML = ``;
+  StaffSection.innerHTML = '';
   if (window.innerWidth < 768) {
     createStaffMember(1);
-    hasLoaded = false;
   } else {
     createStaffMember(staff.length);
     document.querySelector('.staff-inside').classList.toggle('active');
-    hasLoaded = false;
   }
 }
 

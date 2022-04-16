@@ -526,7 +526,7 @@ p {
     display: flex;
     justify-content: center;
   }
-  
+
   .features__cards {
     display: flex;
     flex-direction: column;
@@ -567,7 +567,7 @@ p {
   .staff__description {
     width: 30%;
   }
-  
+
   .staff__description p {
     width: 165% !important;
     font-family: var(--fontFamily-lato);
