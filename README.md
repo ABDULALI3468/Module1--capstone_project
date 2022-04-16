@@ -25,6 +25,7 @@ It consists of two webpages Home and About with both being responsive to desktop
 
   git clone https://github.com/ABDULALI3468/Module1--capstone_project.git
 
+
 #### Step 2:
 - Run index.html file in your browser
 
@@ -53,3 +54,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
