@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: white ;
+  background-color: white;
 }
 
 .about-page {
@@ -24,13 +24,7 @@ body {
   height: 116%;
   background-size: cover;
   background-repeat: no-repeat;
-  background: url(./images/world-background.jpg);
-}
-
-.about-page .flex-about-container {
-  justify-content: center;
-  min-height: 500px;
-  align-items: center;
+  background-image: url(./images/world-background.jpg);
 }
 
 .flex-about-container {
@@ -39,6 +33,12 @@ body {
   width: 90%;
   margin: auto;
   margin-top: 70px;
+}
+
+.about-page .flex-about-container {
+  justify-content: center;
+  min-height: 500px;
+  align-items: center;
 }
 
 .about-page__message {
@@ -61,14 +61,12 @@ body {
 }
 
 .about-page__contact {
-  font-size: var(--fontSize-h3);
   font-family: var(--fontFamily-lato);
   font-size: 16px;
   color: var(--Black);
   text-align: center;
   font-weight: normal;
   width: 70%;
-  text-align: center;
   align-self: center;
 }
 
@@ -233,9 +231,8 @@ body {
   align-items: center;
   justify-content: center;
   height: 250px;
-  background-color: rgba(242 ,242,242 , 0.2) !important;
+  background-color: rgba(242,242,242,0.2) !important;
 }
-
 
 .footer-logo {
   width: 150px;
@@ -248,14 +245,12 @@ body {
 }
 
 .footer p {
-  color: var(--White);
   font-family: var(--fontFamily-lato);
   color: var(--Black) !important;
   margin-left: 20px;
 }
 
 @media only screen and (min-width: 768px) {
-
   .front-page__h1 {
     font-size: 70px !important;
   }
