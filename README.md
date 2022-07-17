@@ -6,8 +6,10 @@
 
 > This project is for completing my Capstone Project requirements for first module at Microverse. It consists of two webpages for a touring company called Alpha Tours, which offers international tour packages.
 
-![Final look of website](https://github.com/ABDULALI3468/Module1--capstone_project/blob/capstone1/images/finalimage.jpeg)
 It consists of two webpages Home and About with both being responsive to desktop and mobile layouts.
+
+![Final look of website](https://github.com/ABDULALI3468/Module1--capstone_project/blob/main/images/finalimage.jpeg)
+
 
 ## Built With
 
@@ -35,7 +37,9 @@ It consists of two webpages Home and About with both being responsive to desktop
 
 👤 **ABDUL ALI**
 
-- GitHub: [@ABDULALI3468](https://github.com/ABDULALI3468/)
+> * This is My **GitHub**: ![GitHub followers](https://img.shields.io/github/followers/ABDULALI3468?label=ABDULALI&style=social)
+> * This is My **Linkedin**: [![Linkedin Badge](https://img.shields.io/badge/-ABDUL%20ALI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-ali-5400bb216/)](https://www.linkedin.com/in/abdul-ali-5400bb216/)&nbsp;
+> * This is My **Twitter**: [![Twitter Badge](https://img.shields.io/badge/-@mrabdul_ali_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mrabdul_ali)](https://twitter.com/mrabdul_ali)&nbsp;
 
 ## 🤝 Contributions
 
